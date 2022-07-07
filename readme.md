@@ -8,6 +8,10 @@ This mod provides a small selection of high-fidelity, faithful rocket engine mod
 
 ![XLR11](source/xlr11/renders/variants01.png)
 
+### HM7
+
+![HM7](source/hm7/renders/viewport00.png)
+
 ## Dependencies
 
 * Waterfall Core
