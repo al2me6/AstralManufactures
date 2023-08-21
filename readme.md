@@ -1,26 +1,20 @@
-# Astral Manufactures (WIP)
+# Astral Manufactures
 
-This mod provides a small selection of high-fidelity, faithful rocket engine models.
+This repository contains the source files for a number of models of obscure rocket engines. The parts are shipped in the [ROEngines](https://github.com/KSP-RO/ROEngines) mod for KSP-RO.
 
 ## Parts included
 
 ### XLR11
 
-![XLR11](source/xlr11/renders/variants01.png)
+![XLR11](xlr11/renders/variants01.png)
 
 ### HM7
 
-![HM7](source/hm7/renders/viewport00.png)
+![HM7](hm7/renders/viewport00.png)
 
 ### G-1
 
-![G-1](source/g1/preview.png)
-
-## Dependencies
-
-* Waterfall Core
-* Textures Unlimited
-* B9PartSwitch
+![G-1](g1/preview.png)
 
 ## License
 
